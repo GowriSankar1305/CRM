@@ -1,0 +1,17 @@
+package com.eazybyts.crm.enums;
+
+public enum AccountTypeEnum {
+ANALYST,
+COMPETITOR,
+CUSTOMER,
+DISTRIBUTOR,
+INTEGRATOR,
+INVESTOR,
+OTHER,
+PARTNER,
+PRESS,
+PROSPECT,
+RESELLER,
+SUPPLIER,
+VENDOR
+}
